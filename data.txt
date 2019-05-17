@@ -1,0 +1,16 @@
+William,Hart;6;Like;Dislike;Dislike;Like
+Lauren,Vance;6;Like;Like;Like;Dislike
+Mary,Hughes;11;Dislike;Like;Dislike;Like
+Steven,Dyer;12;Like;Dislike;Dislike;Dislike
+Warren,King;20;Like;Dislike;Dislike;Like
+Oliver,Robertson;21;Like;Like;Dislike;Dislike
+Una,Hughes;9;Dislike;Like;Disike;Dislike
+Jack,Peake;15;Dislike;Like;Like;Dislike
+Joanne,King;16;Like;Dislike;Dislike;Dislike
+Alan,Bell;21;Like;Dislike;Dislike;Like
+Tim,Buckland;14;Like;Dislike;Dislike;Like
+Edward,Poole;8;Like;Dislike;Like;Dislike
+Hannah,Watson;15;Like;Dislike;Dislike;Like
+Olivia,Short;18;Like;Dislike;Like;Dislike
+Penelope,Morrison;22;Like;Dislike;Like;Dislike
+
